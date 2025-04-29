@@ -1,4 +1,5 @@
-# bellabeat-smart-device-usage-analysis
+![Bellabeat Smart Device Analysis](![Bellabeat Smart Device Analysis](https://github.com/user-attachments/assets/2aea89cf-b12f-4ae1-b7a2-aebb494f0c1e)
+)
 Data cleaning, SQL analysis, and Tableau visualization of Bellabeat smart device usage to guide marketing strategy.
 📄 Bellabeat Smart Device Usage Analysis (SQL + Tableau)
 📈 Project Overview
