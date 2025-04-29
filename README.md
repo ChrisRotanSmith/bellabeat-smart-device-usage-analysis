@@ -19,39 +19,39 @@ Uploaded Fitbit activity, sleep, and calories data into BigQuery.
 
 Added an external dataset (Calories Burned Per Hour by Activity) for enhanced analysis.
 
-2. Data Cleaning
-Verified and standardized data types across tables.
+2. Data Cleaning:
+-Verified and standardized data types across tables.
 
-Handled NULL values dynamically across tables.
+-Handled NULL values dynamically across tables.
 
-Removed duplicates to ensure data quality.
+-Removed duplicates to ensure data quality.
 
-Standardized and normalized column names.
+-Standardized and normalized column names.
 
-Added derived metrics (e.g., total_hours_asleep, weekday).
+-Added derived metrics (e.g., total_hours_asleep, weekday).
 
-3. Data Integration
+3. Data Integration:
 Created a final cleaned table (bellabeatfitbit_cleaned) joining activity, calories, and steps data.
 
-4. Visualization
+4. Visualization:
 Built a Tableau dashboard showing:
 
-Activity levels
+-Activity levels
 
-Sleep patterns
+-Sleep patterns
 
-Calories burned
+-Calories burned
 
-Steps vs sleep comparisons
+-Steps vs sleep comparisons
 
-📊 Key Insights
+📊 Key Insights:
 Users who had consistent moderate activity had better sleep quality.
 
 Most users had relatively low active minutes despite decent step counts.
 
 Bellabeat could focus marketing on promoting consistent low-to-moderate daily movement for better sleep and wellness.
 
-🎯 Business Recommendations
+🎯 Business Recommendations: 
 Promote daily movement challenges through Bellabeat app gamification.
 
 Develop marketing content focusing on the connection between movement, calories burned, and improved sleep.
