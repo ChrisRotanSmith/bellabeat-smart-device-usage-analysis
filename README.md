@@ -5,19 +5,19 @@ Data cleaning, SQL analysis, and Tableau visualization of Bellabeat smart device
 Analyzed smart device usage data to uncover user trends and provide marketing strategy recommendations for Bellabeat, a women's health-focused tech company.
 
 🛠 Tools Used
-BigQuery SQL (Data Cleaning, Joining, Querying)
+-BigQuery SQL (Data Cleaning, Joining, Querying)
 
-Tableau Public (Data Visualization)
+-Tableau Public (Data Visualization)
 
-Kaggle (Source Dataset: Fitbit Fitness Tracker Data)
+-Kaggle (Source Dataset: Fitbit Fitness Tracker Data)
 
-Wisconsin Health Services Dataset (Calories Burned)
+-Wisconsin Health Services Dataset (Calories Burned)
 
 🚀 Project Workflow
 1. Data Preparation
-Uploaded Fitbit activity, sleep, and calories data into BigQuery.
+-Uploaded Fitbit activity, sleep, and calories data into BigQuery.
 
-Added an external dataset (Calories Burned Per Hour by Activity) for enhanced analysis.
+-Added an external dataset (Calories Burned Per Hour by Activity) for enhanced analysis.
 
 2. Data Cleaning:
 -Verified and standardized data types across tables.
